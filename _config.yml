@@ -10,7 +10,7 @@ description: "The San Francisco Enlightened's art project submission for Magnus 
 # Team names, titles and social links
 people:
 - name: '@Tomago'
-  pic: 1
+  pic: Tomago
   position: Tomago is a virtual arms dealer (it sounds more baller than "farmer"). When she's not busy herding teams of multidisciplinary cats in constructing art installations for festivals, she travels the world, working on her explorer and pioneer badges.
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: '@Katranrocks'
-  pic: 2
+  pic: Katranrocks
   position: Agent Katranrocks is currently conducting research on her thesis regarding fault lines and megafield lanes. Little is known of her earlier career, except it is known that this XM sensitive embarked on a series of highly classified missions for the government in the Eastern Sierras.
   social:
     - title: twitter
@@ -32,7 +32,7 @@ people:
       url: #
 
 - name: '@Jookwarrior'
-  pic: 3
+  pic: Jookwarrior
   position: "Jookwarrior is an engineer who loves to tinker, play video games, eat great food, and explore new places. Because this description is actually not terribly descriptive, here are some relatively unknown non-opsec facts: He can play the cello/piano but hasn't done so in years...he can bend his left thumb backwards but not his right...he dislikes beans and taro with a passion...and though he's done the Inca Trail twice and the backside of Half Dome, he's not terribly fond of heights.'"
   social:
     - title: twitter
@@ -65,11 +65,6 @@ social:
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown

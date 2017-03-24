@@ -1,15 +1,13 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Concept
+subtitle: Artist's rendering of the Shaper communication device
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2017-03-22
+img: sketch.png
+thumbnail: sketch.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+description: Artist's rendering of the Shaper communication device
 
 ---
