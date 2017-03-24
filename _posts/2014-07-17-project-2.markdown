@@ -1,5 +1,5 @@
 ---
-title: Blue prints
+title: Blueprints
 subtitle: Website Design
 layout: default
 modal-id: 2
