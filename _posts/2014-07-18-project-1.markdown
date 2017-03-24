@@ -1,5 +1,5 @@
 ---
-title: Concept
+title: Idea
 subtitle: Artist's rendering of the Shaper communication device
 layout: default
 modal-id: 1
