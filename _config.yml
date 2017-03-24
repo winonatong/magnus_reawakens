@@ -2,7 +2,7 @@ url: https://magnus.sfenl.org
 baseurl: 
 
 # Site settings
-title: The Transvisionary Oracle
+title: Transvisionary Oracle
 email: your-email@domain.com
 description: "The San Francisco Enlightened's art project submission for Magnus Reawakens"
 
@@ -21,6 +21,10 @@ people:
 - name: '@xxseven'
   pic: xxseven
   position: xxse7en is a xenolinguist and has conducted extensive research in the Shaper glyphs and exogenous symbology. His ongoing pursuits have revealed much about asynchronous, transdimensional communications, and he has been instrumental in their interpretation. Also, as a wilderness explorer, his work has shed illumination on remnants of much undiscovered Shaper communication in remote, natural areas.
+
+- name: '@StirlingClay'
+  pic: StirlingClay
+  position: StirlingClay brings his experience managing communications for a global health and well being organization to the team in order to facilitate enhanced, bi-directional communication through the portal network. With a specialization in working with expanding "group mind" collaboration, he trains willing participants to embrace MU fields for the benefit of all humanity.
 
 - name: '@Jookwarrior'
   pic: Jookwarrior
