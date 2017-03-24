@@ -1,3 +1,10 @@
 ---
 layout: style
 ---
+.navbar-default .navbar-brand {
+	color: #00a54e;
+}
+
+.navbar-default .navbar-nav > .active > a {
+	color: #00a54e;
+}
