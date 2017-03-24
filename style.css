@@ -6,5 +6,11 @@ layout: style
 }
 
 .navbar-default .navbar-nav > .active > a {
-	color: #00a54e;
+	background-color: #00a54e;
+}
+
+.btn-xl {
+	background-color: #00a54e;
+	border-color: #00a54e;
+
 }
