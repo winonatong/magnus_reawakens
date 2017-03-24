@@ -9,7 +9,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: @katranrocks
+- name: '@katranrocks'
   pic: 1
   position: Agent Katranrocks is currently conducting research on her thesis regarding fault lines and megafield lanes. Little is known of her earlier career, except it is known that this XM sensitive embarked on a series of highly classified missions for the government in the Eastern Sierras.
   social:
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: @UndiKiwi
+- name: '@UndiKiwi'
   pic: 2
   position: Is a data specialist who actually loves everything about his job. He enjoys the outdoors, especially out sailing on the Bay. He admires Nature in all its Glory sometimes capturing it on film. And, of course, he enjoys chillin’ with Ingress. Oops… there he goes recharging another Portal :-)
   social:
