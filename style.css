@@ -1,6 +1,19 @@
 ---
 layout: style
 ---
+
+a {
+	color: #00a54e;
+}
+
+a:active {
+	color: #00a54e;
+}
+
+
+.navbar-default .nav li a:hover, .navbar-default .nav li a:focus
+{color: #00a54e;}
+
 .navbar-default .navbar-brand {
 	color: #00a54e;
 }
@@ -9,8 +22,25 @@ layout: style
 	background-color: #00a54e;
 }
 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: #00a54e;
+}
+
 .btn-xl {
 	background-color: #00a54e;
 	border-color: #00a54e;
 
+}
+
+.btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl {
+    border-color: #00842c;
+    color: #fff;
+    background-color: #00842c;
+}
+
+
+.timeline > li .timeline-image {
+
+	background-color: #00a54e;
 }
