@@ -1,12 +1,11 @@
 ---
-title: Proof of Concept
-subtitle: Website Design
+title: Prototype
 layout: default
 modal-id: 3
 date: 2017-03-23
 img: model.png
 thumbnail: model-thumb.jpg
 alt: image-alt
-description: 1/3 scale model of the installation. The structure is designed to be transported as a partially assembled flat pack that can fit onto the roof rack of any compact vehicle. It can be easily deployed and dismantled on site with several screws.
+description: 1/3 scale model of the installation.
 
 ---
