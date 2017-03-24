@@ -8,6 +8,6 @@ img: plans.png
 thumbnail: plans-thumb.png
 alt: image-alt
 
-description: Panels for the wings of the pyramid, face with touch screen, faces without touch screen, top, tablet pocket, and the base
+description: Panels for the top, tablet pocket, base, wings of the pyramid, face with touch screen, and 3 faces without touch screen
 
 ---

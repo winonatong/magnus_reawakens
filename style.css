@@ -14,7 +14,10 @@ a:hover {
 	color: #00842c;
 }
 
-
+.navbar-default .navbar-toggle {
+	border-color: #00a54e;
+	background-color: #00a54e;
+}
 
 .navbar-default .nav li a:hover, .navbar-default .nav li a:focus { 
 	color: #00a54e;
@@ -23,10 +26,21 @@ a:hover {
 
 .navbar-default .navbar-brand {
 	color: #00a54e;
-	font-size: 1.9em;
+	font-size: 2em;
 	font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform: uppercase;
-    font-weight: 700;
+    font-weight:700;
+    word-wrap: break-word;
+}
+
+@media only screen and (max-width: 414px) {
+
+.navbar-default .navbar-brand {
+      font-size: 1.1em;
+      font-weight:500;
+   }
+
+
 }
 
 .navbar-default .navbar-brand:hover {
