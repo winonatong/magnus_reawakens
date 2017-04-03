@@ -14,6 +14,10 @@ a:hover {
 	color: #00842c;
 }
 
+.form-control, input {
+    border-width: 0;
+    }
+
 .navbar-default .navbar-toggle {
 	border-color: #00a54e;
 	background-color: #00a54e;
