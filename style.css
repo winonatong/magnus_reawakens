@@ -19,8 +19,9 @@ a:hover {
 	background-color: #00a54e;
 }
 
-.navbar-default .nav li a:hover, .navbar-default .nav li a:focus { 
-	color: #00a54e;
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	border-color: #00842c;
+	background-color: #00842c;
 }
 
 
@@ -32,6 +33,12 @@ a:hover {
     font-weight:700;
     word-wrap: break-word;
 }
+
+.navbar-default .navbar-toggle:hover,  .navbar-default .navbar-toggle:active,{
+		border-color: #00a54e;
+	background-color: #00a54e;
+}
+
 
 @media only screen and (max-width: 414px) {
 
